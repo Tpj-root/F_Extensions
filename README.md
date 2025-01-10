@@ -60,6 +60,11 @@ If you want to debug this extension on recent Desktop versions, you can use abou
 
 
 
+git tag -a v0.0.2 -m "Release version 0.0.2"
+git push --tags
+
+
+
 
 
 

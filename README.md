@@ -10,11 +10,29 @@ Download: Based on file extension.
 
 #ss
 
+
+```
+about:config
+```
 ![](img/T0.png)
 
+
+```
+Enabled
+```
 ![](img/T1.png)
 
+
+```
+about:debugging#/runtime/this-firefox
+```
+
 ![](img/T2.png)
+
+
+```
+Out
+```
 
 ![](img/T3.png)
 
